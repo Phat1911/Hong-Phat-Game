@@ -1,0 +1,19 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Database
+*.db
+*.sqlite
+data/
+
+# Git
+.git
+.gitignore
+
+# Environment
+.env
+.env.local
