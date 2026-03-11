@@ -2,8 +2,6 @@
 
 A full-stack gaming platform with 4 classic arcade games, user authentication, real-time messaging, and global rankings.
 
-**Live Demo**: https://orion-1770629073331-203.zinley.site
-
 ## Features
 
 - 🐍 **Snake Game** - Classic snake, eat food, grow longer (1.0x multiplier)
